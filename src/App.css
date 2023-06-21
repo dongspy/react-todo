@@ -1,0 +1,11 @@
+/* App.css */
+.header {
+  background-color: #001529;
+  padding: 0 50px;
+}
+
+.content {
+  padding: 50px;
+  min-height: 280px;
+  background: #fff;
+}
